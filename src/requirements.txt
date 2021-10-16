@@ -1,0 +1,7 @@
+opencv-python
+numpy
+tflite
+mediapipe
+pandas 
+jupyter
+matplotlib
