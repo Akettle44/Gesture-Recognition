@@ -1,0 +1,4 @@
+Best parameters: {'learning_rate': 0.1, 'max_depth': 6}
+0.992 (+/-0.012) for {'learning_rate': 0.1, 'max_depth': 6}
+0.989 (+/-0.008) for {'learning_rate': 0.1, 'max_depth': 10}
+0.990 (+/-0.009) for {'learning_rate': 0.1, 'max_depth': 26}

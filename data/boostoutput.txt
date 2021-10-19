@@ -1,0 +1,5 @@
+Best parameters: {'learning_rate': 1, 'max_depth': 10, 'n_estimators': 8}
+0.984 (+/-0.009) for {'learning_rate': 1, 'max_depth': 9, 'n_estimators': 8}
+0.983 (+/-0.010) for {'learning_rate': 1, 'max_depth': 9, 'n_estimators': 10}
+0.985 (+/-0.012) for {'learning_rate': 1, 'max_depth': 10, 'n_estimators': 8}
+0.985 (+/-0.010) for {'learning_rate': 1, 'max_depth': 10, 'n_estimators': 10}
