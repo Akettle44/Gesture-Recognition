@@ -12,6 +12,6 @@ Packages listed in req/requirements.txt (don't install until after you setup you
 
 1. Setup Python3.9
 2. Setup Python3.9 virutal env: ```python3.9 -m virtualenv swiss```
-3. Activate swiss env: source swiss/bin/activate
-4. Install packages: python3.9 -m pip install requirements.txt
-5. Try running inference.py (Make sure your webcam is plugged in!)
+3. Activate swiss env: ```source swiss/bin/activate```
+4. Install packages: ```python3.9 -m pip install requirements.txt```
+5. Try running inference.py: ```python3.9 inference.py``` (Make sure your webcam is plugged in!)
