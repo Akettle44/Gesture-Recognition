@@ -1,4 +1,4 @@
-### Swiss cheese proof of concept
+# Swiss cheese proof of concept
 
 ## Demo 
 ![demo](demo/demo.gif)
