@@ -55,7 +55,7 @@ class collect_train:
 
 	# Convert only landmarks (no class) to tabular form
 	@staticmethod
-	def tabulate_test(self, landmark_list):
+	def tabulate_test(landmark_list):
 		output = pd.DataFrame()
 		for lms in landmark_list.multi_hand_landmarks:
 			map = {}
